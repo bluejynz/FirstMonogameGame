@@ -2,4 +2,4 @@
 
 !["screenshot"](https://github.com/bluejynz/FirstMonogameGame/blob/main/Game%20screenshot.png?raw=true)
 
-### Made by DanyFalk using MonoGame
+### Made by [@bluejynz](https://www.instagram.com/bluejynz/) using [MonoGame](https://www.monogame.net)
