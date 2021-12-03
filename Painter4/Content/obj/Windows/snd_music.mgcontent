@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/GitHub/FirstMonogameGame/Painter4/Content/snd_music.wma</SourceFile>
+  <SourceTime>2021-11-26T11:20:20.8777501-03:00</SourceTime>
+  <DestFile>D:/GitHub/FirstMonogameGame/Painter4/Content/bin/Windows/snd_music.xnb</DestFile>
+  <DestTime>2021-12-03T19:06:41.9922792-03:00</DestTime>
+  <Importer>WmaImporter</Importer>
+  <ImporterTime>2017-03-01T12:05:36-03:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T12:05:36-03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/GitHub/FirstMonogameGame/Painter4/Content/bin/Windows/snd_music.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

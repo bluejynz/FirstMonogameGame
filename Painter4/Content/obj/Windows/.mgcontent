@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/spr_background.jpg</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/spr_cannon_barrel.png</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/spr_cannon_blue.png</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/spr_cannon_green.png</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/spr_cannon_red.png</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/spr_ball_blue.png</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/spr_ball_green.png</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/spr_ball_red.png</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/spr_can_green.png</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/spr_can_red.png</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/spr_can_blue.png</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/spr_lives.png</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/spr_gameover.jpg</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/snd_collect_points.wma</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/snd_music.wma</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/snd_shoot_paint.wav</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/spr_scorebar.jpg</File>
+    <File>D:/GitHub/FirstMonogameGame/Painter4/Content/PainterFont.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

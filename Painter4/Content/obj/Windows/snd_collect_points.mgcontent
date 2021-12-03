@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/GitHub/FirstMonogameGame/Painter4/Content/snd_collect_points.wma</SourceFile>
+  <SourceTime>2021-11-26T11:20:20.8563979-03:00</SourceTime>
+  <DestFile>D:/GitHub/FirstMonogameGame/Painter4/Content/bin/Windows/snd_collect_points.xnb</DestFile>
+  <DestTime>2021-12-03T19:06:40.0402821-03:00</DestTime>
+  <Importer>WmaImporter</Importer>
+  <ImporterTime>2017-03-01T12:05:36-03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T12:05:36-03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
